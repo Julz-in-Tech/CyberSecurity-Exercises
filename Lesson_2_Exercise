@@ -1,0 +1,10 @@
+**The CIA Triad**
+
+Confidentiality means that only authorised users are able to access the information or data. Encryption, MFA, data masking, etc help us keep unauthorized users away.
+Integrity helps keep your data or information secure by not allowing outsiders to change your data without authorization. This is done through input validation, hashes and digital signatures, and etc.
+Availability means that the user is able to access their data whenever they need to.
+
+Least priviledge is a principle that states that you give access onlt to the feature they are going to use, the rest of the features they can not access or change. A real life example is when a user is reading a blog post, they are only able to access and read and comment but they cannot delete the blog post. It matters because it restricts unauthorised changes and when changes are made, we know the parties that have access and it will be easier to get to the solution.
+
+Defence in depth means that we are using a layered structure to access data. If the first layer fails then we cannot continue.
+
