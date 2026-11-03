@@ -1,0 +1,23 @@
+Vulnerability is an applications weakness or flaw, an example would be when the app does not check the user input.
+
+A threat is someone or something that could cause a weakness. An example would be a hacker that could possible want to hack the app using SQL injection.
+
+A risk is how likely that vulnerability or threat would happen and how much impact it would have on the app. An example would be how likely the hacker would use SQL injection and if they do, how much damage would it cause to the app.
+
+1. B
+2. C
+3. A
+4. B
+5. B
+6. B
+7. B
+8. B
+
+STRIDE
+
+1. TAMPERING
+2. Information disclosure
+3. Spoofing
+4. Elevation of privilege
+5. Denial of Service
+6. Repudiation
