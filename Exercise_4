@@ -1,0 +1,12 @@
+1. Frameworks and standards are important because they provide organisations and developers with a structured, consistent and recognised way of building, managing and securing technology systems.Without frameworks and standards, every organisation or developer might approach security differently. Some may implement strong security measures, while others may overlook important vulnerabilities, risks and compliance requirements.
+
+2. NIST CSF stands for National Institute of Standards and Technology – Cybersecurity Framework. It is a framework that helps organisations identify, manage, reduce and respond to cybersecurity risks. NIST CSF provides organisations with a structured approach to protecting their IT infrastructure, information, systems, networks and business operations against cyber threats.
+
+2.1 Identify
+2.2 Protect
+2.3 Detect
+2.4 Respond
+2.5 Recover
+
+3. ISO/IEC 27001 is an internationally recognised standard for establishing, implementing, maintaining and continually improving an Information Security Management System (ISMS).It provides organisations with a structured way to protect their information and manage information security risks. It uses a risk-based approach, it runs on Plan-Do-Check-Act type of approach.
+
